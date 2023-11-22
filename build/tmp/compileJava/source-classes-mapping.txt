@@ -1,4 +1,2 @@
-com/jjw/SpringBoot/test/web/HelloController.java
- com.jjw.SpringBoot.test.web.HelloController
 com/jjw/SpringBoot/test/Application.java
  com.jjw.SpringBoot.test.Application
